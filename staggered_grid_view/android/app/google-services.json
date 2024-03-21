@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432285974465",
+    "project_id": "staggeredgridview",
+    "storage_bucket": "staggeredgridview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432285974465:android:8ab184ab350fdbdb23b940",
+        "android_client_info": {
+          "package_name": "com.example.staggered_grid_view"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDypyN4zNrdXwlxP-zgXLp3ypxUAE5mvjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497896559079",
+    "project_id": "analytics-6b97b",
+    "storage_bucket": "analytics-6b97b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497896559079:android:2e59bf1525a18d9dea6d42",
+        "android_client_info": {
+          "package_name": "com.example.google_analytics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEQw7EqIIPnqN5AlkhgLoQucfPHWBy1og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

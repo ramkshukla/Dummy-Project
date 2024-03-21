@@ -1,0 +1,83 @@
+{
+
+  "status": "OK",
+  "code": 200,
+  "message": "OK",
+  "errors": [
+    
+  ],
+
+    "data": [
+      {
+        "id":1,
+        "songTitle": "Moving on",
+        "artistName": "Reema",
+        "songUrl": "songs/after-destruction-5224.mp3",
+        "thumbnail": "assets/images/image1.jpg"
+      },
+      {
+        "id":2,
+        "songTitle": "One last moment",
+        "artistName": "Selena gomez",
+        "songUrl": "songs/after-destruction-5224.mp3",
+        "thumbnail": "assets/images/image2.jpg"
+      },
+      {
+        "id":3,
+        "songTitle": "Red Water",
+        "artistName": "Louis Armstrong",
+        "songUrl": "songs/amazing-grace-5527.mp3",
+        "thumbnail": "assets/images/image3.jpg"
+      },
+      {
+        "id":4,
+        "songTitle": "Words so sharp",
+        "artistName": "Bob Dylan",
+        "songUrl": "songs/deep-open-9284.mp3",
+        "thumbnail": "assets/images/image4.jpg"
+      },
+      {
+        "id":5,
+        "songTitle": "For the love of us",
+        "artistName": "Elvis Presley",
+        "songUrl": "songs/glorious-adventure-cinematic-trailer-12866.mp3",
+        "thumbnail": "assets/images/image5.jpg"
+      },
+      {
+        "id":6,
+        "songTitle": "Keep Standing",
+        "artistName": " Stevie Wonder",
+        "songUrl": "songs/intro-song-ver3-154717.mp3",
+        "thumbnail": "assets/images/image6.jpg"
+      },
+      {
+        "id":7,
+        "songTitle": "First time",
+        "artistName": "Jimi Hendrix",
+        "songUrl": "songs/modern-beat-jingle-intro-149598.mp3",
+        "thumbnail": "assets/images/image7.jpg"
+      },
+      {
+        "id":8,
+        "songTitle": "Whispers of devotion",
+        "artistName": "Taylor Swift",
+        "songUrl": "songs/rise-of-the-enemy-30-seconds-14303.mp3",
+        "thumbnail": "assets/images/image8.jpg"
+      },
+      {
+        "id":9,
+        "songTitle": "Nearly gone",
+        "artistName": "Prince",
+        "songUrl": "songs/rise-of-the-enemy-full-2-09-14302.mp3",
+        "thumbnail": "assets/images/image9.jpg"
+      },
+      {
+        "id":10,
+        "songTitle": "Beg for beginnings",
+        "artistName": "Jay Z",
+        "songUrl": "songs/rise-of-the-enemy-full-2-09-14302.mp3",
+        "thumbnail": "assets/images/image6.jpg"
+      }
+
+    ]
+  }
